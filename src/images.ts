@@ -1,4 +1,4 @@
-const url: string = 'https://kenneth-andales/portfolio/images'
+const url: string = 'https://kenneth-andales.github.io/portfolio/images'
 
 export const workOne: string[] = [
   `${url}/work1/1.png`,
