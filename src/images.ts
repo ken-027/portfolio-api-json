@@ -76,8 +76,8 @@ export const workFour = [
 ]
 
 export const workFive = [
-  `${url}/work7/1.png`,
-  `${url}/work7/2.png`,
+  `${url}/work5/1.png`,
+  `${url}/work5/2.png`,
   `${url}/work5/3.png`,
   `${url}/work5/4.png`,
   `${url}/work5/5.png`,
@@ -118,7 +118,7 @@ export const workSix = [
 ]
 
 export const workSeven = [
-  `${url}/work7w/1.png`,
+  `${url}/work7/1.png`,
   `${url}/work7/2.png`,
   `${url}/work7/3.png`,
   `${url}/work7/5.png`,
@@ -133,4 +133,22 @@ export const workSeven = [
   `${url}/work7/14.png`,
   `${url}/work7/15.png`,
   `${url}/work7/16.png`,
+]
+
+
+export const workEight = [
+  `${url}/work8/1.png`,
+  `${url}/work8/2.png`,
+  `${url}/work8/3.png`,
+  `${url}/work8/4.png`,
+  `${url}/work8/5.png`,
+  `${url}/work8/6.png`,
+  `${url}/work8/7.png`,
+  `${url}/work8/8.png`,
+  `${url}/work8/9.png`,
+  `${url}/work8/10.png`,
+  `${url}/work8/11.png`,
+  `${url}/work8/12.png`,
+  `${url}/work8/13.png`,
+  `${url}/work8/14.png`,
 ]

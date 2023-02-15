@@ -18,6 +18,7 @@ import {
   workFive,
   workSix,
   workSeven,
+  workEight,
 } from './images'
 
 const works: IWork[] = [
@@ -136,6 +137,21 @@ const works: IWork[] = [
       skills.frontend.skills[3].name,
     ],
     images: workSeven,
+  },
+  {
+    title: 'Trabook Landing Page',
+    description: 'A simple landing page of trabook',
+    website: 'https://kenneth-andales.github.io/trabook',
+    repository: `${info.socials[0].link}/trabook`,
+    developmentType: 'Frontend',
+    technologies: [
+      skills.language.skills[0].name,
+      skills.language.skills[1].name,
+      skills.language.skills[2].name,
+      skills.language.skills[3].name,
+      skills.frontend.skills[3].name,
+    ],
+    images: workEight,
   },
 ]
 
